@@ -1,12 +1,20 @@
 field,display_name,browse_link,external_link
 title,Title,
+objectid,Objectid,
 creator,Creator,
+publisher,Publisher,
 date,Date Created,
+creation date,Creation Date,
 description,Description,
+physical dimensions,Physical Dimensions,
 subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
+language,Language,
+filedate,Filedate,
+filesize,Filesize,
+filename,Filename,
 source,Source
 identifier,Source Identifier,,
 type,Type,
